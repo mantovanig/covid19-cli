@@ -1,0 +1,5 @@
+.vscode/settings.json
+build
+covid19.egg-info
+dist
+.DS_Store
